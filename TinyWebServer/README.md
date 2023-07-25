@@ -247,17 +247,8 @@ Demo演示
 * [最新版Web服务器项目详解 - 13 踩坑与面试题](https://mp.weixin.qq.com/s?__biz=MzAxNzU2MzcwMw==&mid=2649274431&idx=1&sn=2dd28c92f5d9704a57c001a3d2630b69&chksm=83ffb167b48838715810b27b8f8b9a576023ee5c08a8e5d91df5baf396732de51268d1bf2a4e&token=1686112912&lang=zh_CN#rd)
 * 已更新完毕
 
-Star History
----------
-[![Star History Chart](https://api.star-history.com/svg?repos=qinguoyi/TinyWebServer&type=Date)](https://star-history.com/#qinguoyi/TinyWebServer&Date)
 
 CPP11实现
 ------------
 更简洁，更优雅的CPP11实现：[Webserver](https://github.com/markparticle/WebServer)
 
-
-致谢
-------------
-Linux高性能服务器编程，游双著.
-
-感谢以下朋友的PR和帮助: [@RownH](https://github.com/RownH)，[@mapleFU](https://github.com/mapleFU)，[@ZWiley](https://github.com/ZWiley)，[@zjuHong](https://github.com/zjuHong)，[@mamil](https://github.com/mamil)，[@byfate](https://github.com/byfate)，[@MaJun827](https://github.com/MaJun827)，[@BBLiu-coder](https://github.com/BBLiu-coder)，[@smoky96](https://github.com/smoky96)，[@yfBong](https://github.com/yfBong)，[@liuwuyao](https://github.com/liuwuyao)，[@Huixxi](https://github.com/Huixxi)，[@markparticle](https://github.com/markparticle)，[@blogg9ggg](https://github.com/Blogg9ggg).
